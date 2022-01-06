@@ -25,11 +25,11 @@ To Be Added - À ajouter
 
 - [von-network](https://github.com/bcgov/von-network)
 
-## Verifiable Credential Issuers / Verifiers - Émetteurs / consommateur d'attestations vérifiables
+## Verifiable Credential Issuers / Verifiers - Émetteurs / Consommateur d'attestations vérifiables
 
 - To Be Added - À ajouter
 
-## Interoperability - Interpérabilité
+## Interoperability - Interopérabilité
 
 - [Interoperability Test Status - Statuts des tests d'interopérabilité](https://aries-interop.info)
 - [Aries Interop Profiles](https://github.com/hyperledger/aries-rfcs/tree/main/concepts/0302-aries-interop-profile)
